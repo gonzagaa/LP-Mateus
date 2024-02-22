@@ -246,7 +246,7 @@ html {
 /*RESPONSIVIDADE =================== */
 @media (min-width: 1080px) {
   .wrapper {
-    width: min(150rem, 100%);
+    width: min(130rem, 100%);
   }
    
   header#home .content h1 {

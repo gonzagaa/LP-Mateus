@@ -213,13 +213,8 @@ nav {
         padding-inline: 1rem;
         width: 100%;
       }
-
-      nav#navigation .wrapper {
-        width: min(170rem, 100%);
-      }
-
       .wrapper {
-        width: min(150rem, 100%);
+        width: min(130rem, 100%);
       }
     
     } 
